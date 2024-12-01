@@ -1,0 +1,152 @@
+{
+  "campaignMetadata": {
+    "campaignId": "PARTNER2024",
+    "offers": {
+      "360": [
+        {
+          "id": "360",
+          "promotionId": "EE_B2C_FP_M24_PARTNER_200PLN+BONUS_START_200PLN",
+          "offerMetadata": {
+            "campaignTitle": "Oferta Partnerska Publicis",
+            "smallBenefits": {
+              "benefit1": {
+                "text": "Zamrożona cena przez 24 miesiące",
+                "icon": "Shield"
+              },
+              "benefit2": {
+                "text": "400 zł nadpłaty na koncie na start",
+                "icon": "Wallet"
+              },
+              "benefit3": {
+                "text": "od 4,99 zł opłaty handlowej przy e-fakturze i zgodach marketingowych",
+                "icon": "Receipt"
+              },
+              "benefit4": {
+                "text": "100% zielonej energii",
+                "icon": "Leaf"
+              }
+            },
+            "largeBenefits": {
+              "benefit1": {
+                "title": "Stała cena za kWh przez 24 miesiące",
+                "description": "Ochrona przed podwyżkami cen prądu",
+                "icon": "Shield"
+              },
+              "benefit2": {
+                "title": "Umowa na czas nieoznaczony",
+                "description": "Umowa na czas nieoznaczony z miesięcznym okresem wypowiedzenia",
+                "icon": "FileText"
+              },
+              "benefit3": {
+                "title": "400 zł na start",
+                "description": "Oszczędności od pierwszego rachunku",
+                "icon": "Wallet"
+              },
+              "benefit4": {
+                "title": "100% zielonej energii",
+                "description": "Energia w całości pochodząca z odnawialnych źródeł",
+                "icon": "Leaf"
+              }
+            },
+            "offerGuarantee": "Gwarancja stałej ceny przez 24 miesiące"
+          }
+        }
+      ],
+      "370": [
+        {
+          "id": "370",
+          "promotionId": "EE_B2C_FP_M12_PARTNER_200PLN+BONUS_START_100PLN",
+          "offerMetadata": {
+            "campaignTitle": "Oferta Partnerska Publicis",
+            "smallBenefits": {
+              "benefit1": {
+                "text": "Zamrożona cena przez 12 miesięcy",
+                "icon": "Shield"
+              },
+              "benefit2": {
+                "text": "300 zł nadpłaty na koncie na start",
+                "icon": "Wallet"
+              },
+              "benefit3": {
+                "text": "od 4,99 zł opłaty handlowej przy e-fakturze i zgodach marketingowych",
+                "icon": "Receipt"
+              },
+              "benefit4": {
+                "text": "100% zielonej energii",
+                "icon": "Leaf"
+              }
+            },
+            "largeBenefits": {
+              "benefit1": {
+                "title": "Stała cena za kWh przez 12 miesięcy",
+                "description": "Ochrona przed podwyżkami cen prądu",
+                "icon": "Shield"
+              },
+              "benefit2": {
+                "title": "Umowa na czas nieoznaczony",
+                "description": "Umowa na czas nieoznaczony z miesięcznym okresem wypowiedzenia",
+                "icon": "FileText"
+              },
+              "benefit3": {
+                "title": "300 zł na start",
+                "description": "Oszczędności od pierwszego rachunku",
+                "icon": "Wallet"
+              },
+              "benefit4": {
+                "title": "100% zielonej energii",
+                "description": "Energia w całości pochodząca z odnawialnych źródeł",
+                "icon": "Leaf"
+              }
+            },
+            "offerGuarantee": "Gwarancja stałej ceny przez 12 miesięcy"
+          }
+        }
+      ],
+      "380": [
+        {
+          "id": "380",
+          "promotionId": "EE_B2C_BPM_PARTNER_200PLN+BONUS_START_100PLN",
+          "offerMetadata": {
+            "campaignTitle": "Oferta Partnerska Publicis",
+            "smallBenefits": {
+              "benefit1": {
+                "text": "Cena monitorowana i dostosowana do rynku",
+                "icon": "Shield"
+              },
+              "benefit2": {
+                "text": "300 zł nadpłaty na koncie na start",
+                "icon": "Wallet"
+              },
+              "benefit3": {
+                "text": "0 zł opłaty handlowej przy e-fakturze i zgodach marketingowych",
+                "icon": "Receipt"
+              },
+              "benefit4": {
+                "text": "100% zielonej energii",
+                "icon": "Leaf"
+              }
+            },
+            "largeBenefits": {
+              "benefit1": {
+                "title": "Zawsze najlepsza cena za prąd",
+                "description": "Dbamy o najlepszą cenę za Ciebie i automatycznie ją dostosowujemy. Płacisz najlepszą stawkę, bez śledzenia rynku",
+                "icon": "Shield"
+              },
+              "benefit2": {
+                "title": "Taryfa aktualizowana",
+                "description": "Taryfa jest aktualizowana w oparciu o najniższą dostępną stawkę na rynku, dodatkowo pomniejszaną o 1zł za MWh",
+                "icon": "Receipt"
+              },
+              "benefit3": {
+                "title": "300 zł na start",
+                "description": "0 zł opłaty handlowej przy wyborze e-faktury i zgodach marketingowych",
+                "icon": "Wallet"
+              }
+            },
+            "offerGuarantee": "Zawsze najlepsza cena na rynku"
+          }
+        }
+      ]
+    }
+  }
+}
